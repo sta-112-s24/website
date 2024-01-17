@@ -10,7 +10,7 @@ d <- tibble(
 
 p <- ggplot(d, aes(x = x1, y = y, color = x2)) + 
   geom_point() + 
-  geom_smooth(method = "loess", formula = y ~ x, color = "#c0428a") + 
+  geom_smooth(method = "loess", formula = y ~ x, color = "#ffb398") + 
   theme_void() + 
   theme_transparent() + 
   theme(legend.position = "none")
@@ -22,6 +22,6 @@ sticker(p,
         s_width = 1.75,
         s_height = 0.75,
         filename = "img/favicon.png",
-        h_color = "#c0428a",
+        h_color = "#ffb398",
         h_fill = "white",
-        p_color = "#c0428a")
+        p_color = "#ffb398")
