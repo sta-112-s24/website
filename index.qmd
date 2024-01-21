@@ -14,7 +14,7 @@ sidebar: false
 ------------------|-------------------|------------------|------------------|------------------ 
 Instructor        | [{{< var instructor.name >}}]({{< var instructor.url >}}) | {{< var instructor.email >}}| [{{< var instructor.officehrs >}}]({{< var instructor.appointment_url >}}) | Manchester 342
 TA               | {{< var ta.name >}} |  | | 
-<span></span>                  | [Math & Stats Center](https://mathandstatscenter.wfu.edu/) | <a href="mailto:mathandstatscenter@wfu.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; | Study Session TBA and By appointment | 
+<span></span>                  | [Math & Stats Center](https://mathandstatscenter.wfu.edu/) | <a href="mailto:mathandstatscenter@wfu.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; | Study Session Tuesday and Wednesday 7-9pm and By appointment | 
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-6}
