@@ -4,6 +4,7 @@ Course website for Sta 112 - Introduction to Regression and Data Science, Spring
 
 Course website is live at https://sta-112-s24.github.io/website.
 
+
 # Attribution
 
 - This website design is based on [ESPM-157 by Carl Boettinger](https://espm-157.carlboettiger.info/), [Sta199 by Mine Çetinkaya-Rundel](http://www2.stat.duke.edu/courses/Spring18/Sta199/), and [PMAP 8521 by Andrew Heiss](https://evalf22.classes.andrewheiss.com).
